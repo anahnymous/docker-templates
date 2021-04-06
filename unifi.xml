@@ -2,7 +2,7 @@
 <Container version="2">
   <Name>Unifi</Name>
   <BaseImage>Debian:Stretch</BaseImage>
-  <Date>2021-03-25</Date>
+  <Date>2021-04-06</Date>
   <Repository>anahnymous/unifi</Repository>
   <Registry>https://hub.docker.com/r/anahnymous/unifi</Registry>
   <Network>host</Network>
@@ -19,7 +19,7 @@
   <DonateLink></DonateLink>
   <DonateImg></DonateImg>  
   <DateInstalled/>
-  <Description>UniFi Access Point Controller Software - version 6.0.45</Description>
+  <Description>UniFi Access Point Controller Software - version 6.1.71</Description>
   <Networking>
     <Mode>host</Mode>
     <Publish>
